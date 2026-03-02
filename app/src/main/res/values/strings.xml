@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food Tracker</string>
+    <string name="api_key_hint">OpenAI API Key (stored only in memory)</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="analyze_food">Analyze Food</string>
+    <string name="camera_permission_required">Camera permission is required to use this app.</string>
+</resources>
